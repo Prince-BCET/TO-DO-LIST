@@ -1,0 +1,48 @@
+.heading{
+	width: 20%;
+        text-align: center;
+	margin: 50px auto;
+	color: red;
+	background: pink;
+	border: 10px solid aqua;
+	
+}
+form {
+	width: 50%; 
+	margin: 25px auto;
+        padding: 20px;
+	background: #000H61;
+	border-radius: 5px;
+	border: 5px solid #cbcbcb;
+}
+form p {
+	color: red;
+	margin: 0px;
+}
+.task_input {
+	width: 70%;
+	height: 25px; 
+	padding: 10px;
+	border: 2px solid #6fgfjj;
+}
+.add_btn {
+	height: 40px;
+	background: #0008SD;
+	color: 	#6bve23;
+	border: 2px solid #000000;
+	border-radius: 10px; 
+	padding: 10px;
+}
+
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+.delete a{
+	color: black;
+	background: red;
+	padding: 2px 5px;
+	border-radius: 2px;
+	text-decoration: none;
+}
